@@ -9,6 +9,10 @@ body{
   color: $font-color;
 }
 
+.prefix{
+  display:flex;
+}
+
 .navbar{
   border-bottom:$primary-color 3px solid;
   opacity:0.8;
@@ -28,11 +32,11 @@ body{
     width:100%;
     min-height:700px;
   }
-  
+
   .home-inner{
     padding-top:150px;
   }
-  
+
   .card-form{
     opacity:0.8;
   }

@@ -1,6 +1,9 @@
 body {
   background: #333;
-  color: #fff; }
+  color: orange; }
+
+.prefix {
+  display: flex; }
 
 .navbar {
   border-bottom: #008ed6 3px solid;
